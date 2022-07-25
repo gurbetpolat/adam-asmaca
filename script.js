@@ -63,7 +63,7 @@ function updateWrongLetters() {
         popup.style.display = "flex";
         message_el.innerText = "Üzgünüm Kaybettiniz...";
     }
-
+// dfghjklşi,
 
 }
 function displayMessage() {
